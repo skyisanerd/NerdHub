@@ -1,13 +1,1 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Sky's Nerd Hub", "Ocean")
-local Tab = Window:NewTab("Bloxfruit Nerdies")
-
-local Tab = Window:NewTab("BloxFruit Nerdies")
-local Section = Tab:NewSection("Nerd")
-
-Section:NewLabel("NerdTrap")
-
-
-Section:NewButton("NerdTrap", "For Nerds only", function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/S4nZz/bt_project/main/Games/BlacktrapScript.txt'))()
-end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Varomine/SOME-HUB-MY/main/Bloxfruits%20open%20src.txt", true))()
